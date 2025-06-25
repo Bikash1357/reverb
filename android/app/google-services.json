@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "23657700526",
+    "project_id": "reverb-6ee9a",
+    "storage_bucket": "reverb-6ee9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23657700526:android:6e888a465825e1df11213f",
+        "android_client_info": {
+          "package_name": "com.example.reverb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23657700526-0il5d899sequt77gta9e8m3le1c654fd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reverb",
+            "certificate_hash": "51d1bad2fbbf7b0b11789936ebd20991a0a6cf38"
+          }
+        },
+        {
+          "client_id": "23657700526-sdg6hvh48d1uo4ibluvngnqdjlmva2qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwJtjcjM6NWLPmWE1moputEuXn1pu2TnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23657700526-sdg6hvh48d1uo4ibluvngnqdjlmva2qb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "23657700526-pihahmu7m6dbqc5pl5a5pk4e5gug440e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reverb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
